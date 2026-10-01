@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1338-feat-backend-farmer-payment-processing-multi",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1338-feat-backend-farmer-payment-processing-multi": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1338-feat-backend-farmer-payment-processing-multi",
+    "origin"
+  ]
+}
